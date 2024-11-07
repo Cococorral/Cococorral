@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying my master's in Data Science, Big Data & Business Analytics
 - 😄 I’m currently learning 100 Days of Code with Python
 - 👯 I’m looking for an internship in data analytics
-- 📫 How to reach me: corralnicolás@gmail.com 
+- 📫 How to reach me: corralnicolas@gmail.com 
